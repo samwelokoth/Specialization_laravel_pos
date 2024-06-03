@@ -12,7 +12,7 @@ For system requirements you [Check Laravel Requirement](https://laravel.com/docs
 
 ### Clone the repository from github.
 
-    git clone https://github.com/angkosal/laravel-pos.git [YourDirectoryName]
+    git clone https://github.com/samwelokoth/laravel-pos.git [YourDirectoryName]
 
 The command installs the project in a directory named `YourDirectoryName`. You can choose a different
 directory name if you want.
@@ -55,18 +55,18 @@ Rename or copy `.env.example` file to `.env` 1.`php artisan key:generate` to gen
 
 #### Product list
 
-![Product list](https://raw.githubusercontent.com/angkosal/laravel-pos/master/screenshots/products_list.png)
+![Product list](https://raw.githubusercontent.com/samwelokoth/laravel-pos/master/screenshots/products_list.png)
 
 #### Create order
 
-![Create order](https://raw.githubusercontent.com/angkosal/laravel-pos/master/screenshots/pos.png)
+![Create order](https://raw.githubusercontent.com/samwelokoth/laravel-pos/master/screenshots/pos.png)
 
 #### Order list
 
-![Order list](https://raw.githubusercontent.com/angkosal/laravel-pos/master/screenshots/order_list.png)
+![Order list](https://raw.githubusercontent.com/samwelokoth/laravel-pos/master/screenshots/order_list.png)
 
 #### Customer list
 
-![Customer list](https://raw.githubusercontent.com/angkosal/laravel-pos/master/screenshots/customer_list.png)
+![Customer list](https://raw.githubusercontent.com/samwelokoth/laravel-pos/master/screenshots/customer_list.png)
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/angkosal)
+[!["Buy Me A Coffee"](via paypal @ insightfulbit@gmail.com)
